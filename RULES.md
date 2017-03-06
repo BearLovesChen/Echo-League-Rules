@@ -216,23 +216,24 @@
     4. Late time does not accrue during Valve server downtime.
     5. Finding a stand-in at game time counts towards late time.
 7. All games in a series, after the first, will allow the following amount of break time, depending on the game time:
-    1. 0-60 minutes: five (5) minutes of break time
-    2. 60-90 minutes: ten (10) minutes of break time
-    3. 90+ minutes: fifteen (15) minutes of break time
+    1. 0-60 minutes: five (5) minutes of break time.
+    2. 60-90 minutes: ten (10) minutes of break time.
+    3. 90+ minutes: fifteen (15) minutes of break time.
 8. Using all chat is forbidden, and will result in warning or forfeit (as decided by administration) except in these circumstances:
     1. Explaining or discussing why a pause or issue has occurred.
     2. Wishing the other team, “Good luck, have fun” or of similar nature.
     3. Incidental typing, such as putting a rosh timer in all-chat instead of team chat, or an errant letter or number when moving quickly (e.g. "qwrr   22").  This does not apply to anything greater than that.
     4. Calling/saying “gg” (“Good Game”, “ggwp”, “gege”, or any other accepted variant) at the end or to end the game. Once “gg” is called, the game is instantly forfeited by the team who calls it, no exceptions will be made.
-        1. If GG is called accidentally (though ChatWheel, etc) and subsequently cancelled, the offending team must say in all-chat that they have cancelled the GG so there is no confusion. Every cancelled GG will be reviewed by the admin team to ensure that it did not impact the outcome of the game
+        1. If GG is called accidentally (though ChatWheel, etc) and subsequently cancelled, the offending team must say in all-chat that they have cancelled the GG so there is no confusion. Every cancelled GG will be reviewed by the admin team to ensure that it did not impact the outcome of the game.
         2. Every cancelled GG will also be considered an 'all-chat' violation and be subject to punishment in accordance with rule VIII.9
-9. First all-chat offense for a team will result in an official warning from an admin, and every further offense will result in forfeit of game
+9. First all-chat offense for a team will result in an official warning from an admin, and every further offense will result in forfeit of game.
 10. Pick order, Side, and Server will be determined in the following way:
     1. Teams will flip a coin for Game 1. Winning team will choose either the pick order or side.
-        1. If there is a difference in preferred servers, winning team will also pick server for game 1
-    2. Losing team will then choose the remaining option and their preference
-    3. For game two, the order is flipped.  The team that lost the coinflip will now choose the server played on, and then pick order or side of their choosing.  Team that won the coinflip will choose the remaining option and their preference
-    4. Repeat the coinflip for games 3 and 5 as needed
+        1. If there is a difference in preferred servers, winning team will also pick server for game 1.
+    2. Losing team will then choose the remaining option and their preference.
+    3. For game two, the order is flipped.  The team that lost the coinflip will now choose the server played on, and then pick order or side of their choosing.  Team that won the coinflip will choose the remaining option and their preference.
+    4. Repeat the coinflip for games 3 and 5 if necessary.
+
 -----
 
 ## IX Community Conduct
