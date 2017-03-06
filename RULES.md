@@ -233,6 +233,7 @@
     2. Losing team will then choose the remaining option and their preference
     3. For game two, the order is flipped.  The team that lost the coinflip will now choose the server played on, and then pick order or side of their choosing.  Team that won the coinflip will choose the remaining option and their preference
     4. Repeat the coinflip for games 3 and 5 as needed
+    
 -----
 
 ## IX Community Conduct
